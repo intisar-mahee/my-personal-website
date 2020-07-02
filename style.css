@@ -9,15 +9,10 @@ h1{
            }
 .half-wid{
           width: 50%;
-         
           margin-left: 5%;
           padding-left: 2%;
+          float: left;
          }
 .half-wid img
         {
-            width: 100%;
-        }
-.topbg{
-    background-color: chartreuse;
-
-}
+            width: 100%;}
